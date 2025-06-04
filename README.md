@@ -6,9 +6,9 @@ This repository contains the Excel dataset and Power BI dashboard.
 Steps:
 Download the following files:
 
-📂 shadowfax.pbix (Power BI file)
+1. shadowfax.pbix (Power BI file)
 
-📊 Shadowfax.xlsx (Raw data used in the dashboard)
+2. Shadowfax.xlsx (Raw data used in the dashboard)
 
 Open the shadowfax.pbix file using Power BI Desktop.
 
